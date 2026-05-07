@@ -1,0 +1,4 @@
+# 忽略Excel/CSV数据文件，避免触发GitHub文件大小限制
+*.xlsx
+*.xls
+*.csv
